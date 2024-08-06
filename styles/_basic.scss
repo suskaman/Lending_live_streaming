@@ -6,3 +6,22 @@ body {
     font-family: Roboto;
     margin: 0;
 }
+
+h1,h2,h3,h4,h5,h6,p,button {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: unset;
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+    min-width: 100%;
+    margin: 0 auto;
+}
